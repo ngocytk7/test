@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<class>
+    <firstname>Vinh</firstname>
+    <lastname>Phan</lastname>
+    <marks>85</marks>
+    <firstname>Hoa</firstname>
+    <lastname>Nguyen</lastname>
+    <marks>95</marks>
+     <firstname>UY</firstname>
+    <lastname>NGUYEN</lastname>
+    <marks>85</marks>
+    <firstname>ABC1</firstname>
+    <lastname>ABC2</lastname>
+    <marks>95</marks>
+    <firstname>ABC3</firstname>
+    <lastname>ABC4</lastname>
+    <marks>85</marks>
+    <firstname>ABC5</firstname>
+    <lastname>ABC6</lastname>
+    <marks>95</marks>
+</class>
